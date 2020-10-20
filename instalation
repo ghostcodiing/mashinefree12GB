@@ -1,0 +1,10 @@
+### INSTALLATION ###
+IMPORTANT: DOWNLOAD TURBOVNC OR ANYONE VNC VIEWER
+1. Download GIT ON RDP OR COMPUTER.
+2. Enter the https://colab.research.google.com.
+3. On upload tab, upload mashinelinuxghost.ipynb
+4. After upload, press "Start Mashine"
+5. Copy&paste your tunnel authtoken from https://dashboard.ngrok.com/auth
+6. Choose your location 
+7. After start mashine, copy IP and other data and save.
+8. Enjoy!
