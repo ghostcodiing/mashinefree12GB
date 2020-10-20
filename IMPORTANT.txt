@@ -2,3 +2,6 @@ https://colab.research.google.com/
 
 
 MINING WELCOME ^_^ :) 
+
+
+SPECIFICATIONS: 12GB RAM/ 60 GB SSD/ 16GB VIDEO MEMORY NVIDIA
